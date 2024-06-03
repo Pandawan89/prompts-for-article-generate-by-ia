@@ -1,7 +1,7 @@
 
 # Projeto artigo técnico gerado por I.A.s
 
-Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover autoridade técnica.
+Projeto com o objetivo de gerar um artigo técnico, leitura agradável, simples e com foco em promover autoridade técnica.
 
 <a href="https://web.dio.me/articles/explorando-diretivas-de-classe-e-objeto-em-c?back=%2Farticles&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
 
@@ -9,7 +9,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 - [ChatGPT](https://chat.openai.com/) - para título e conteúdo
 - [Lexica.art](https://lexica.art/) - para gerar imagens
-- Editor de imagem: Adobe Photoshop - para edição de imagem
+- Adobe Photoshop - para edição de imagem
 
 ## 📄 Prompts e ferramentas
 
